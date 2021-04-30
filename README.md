@@ -6,9 +6,10 @@ A simplie API using laravel and sanctum
 
 1. Just clone the repository
 2. Go inside project folder
-3. composer install comand
+3. Rum command: composer update
 4. Configure DB conection.
-5. That is all, you can test using docs.
+5. Rum command: php artisan migrate
+6. That is all, you can test using docs.
 
 ## URL to see docs
 
